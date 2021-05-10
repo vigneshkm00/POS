@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "967398774025",
+    "project_id": "posandroid-ade7c",
+    "storage_bucket": "posandroid-ade7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967398774025:android:b018ffad7f9dc00e45afd8",
+        "android_client_info": {
+          "package_name": "com.vignesh.pos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967398774025-guk67uhqbsn2n1frtme6kj6mk1v2uer8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vignesh.pos",
+            "certificate_hash": "ebe25ca31b71967319b4911677bbceefa426ef6c"
+          }
+        },
+        {
+          "client_id": "967398774025-5nkd5oi7c8pesi2tfm9oojve798i3ot0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQvBlt8wFhM8t05Qg3xOmL24xUeazOJ5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967398774025-5nkd5oi7c8pesi2tfm9oojve798i3ot0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
